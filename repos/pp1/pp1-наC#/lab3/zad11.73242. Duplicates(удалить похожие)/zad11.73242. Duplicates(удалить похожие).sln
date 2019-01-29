@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad11.73242. Duplicates(удалить похожие)", "zad11.73242. Duplicates(удалить похожие)\zad11.73242. Duplicates(удалить похожие).csproj", "{2519F93D-01C5-41B4-96EA-08B345CFD454}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2519F93D-01C5-41B4-96EA-08B345CFD454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2519F93D-01C5-41B4-96EA-08B345CFD454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2519F93D-01C5-41B4-96EA-08B345CFD454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2519F93D-01C5-41B4-96EA-08B345CFD454}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E03A3D1-2296-4A48-9331-AA6F61986632}
+	EndGlobalSection
+EndGlobal

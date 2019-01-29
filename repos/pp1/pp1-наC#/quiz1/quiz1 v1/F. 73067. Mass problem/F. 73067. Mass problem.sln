@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F. 73067. Mass problem", "F. 73067. Mass problem\F. 73067. Mass problem.csproj", "{D6F0793D-05CF-429A-8579-CED47835E33D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6F0793D-05CF-429A-8579-CED47835E33D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F0793D-05CF-429A-8579-CED47835E33D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F0793D-05CF-429A-8579-CED47835E33D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F0793D-05CF-429A-8579-CED47835E33D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72EA7971-B4D6-4ACD-A9E0-387331F4D3CF}
+	EndGlobalSection
+EndGlobal

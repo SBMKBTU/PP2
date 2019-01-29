@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zad17. 73273. Is it Prime", "zad17. 73273. Is it Prime\zad17. 73273. Is it Prime.csproj", "{230F6EC0-630E-4360-A0A7-472B6D329CA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{230F6EC0-630E-4360-A0A7-472B6D329CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230F6EC0-630E-4360-A0A7-472B6D329CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230F6EC0-630E-4360-A0A7-472B6D329CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230F6EC0-630E-4360-A0A7-472B6D329CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD7C68A1-C92C-4140-B87E-AD364C02B91E}
+	EndGlobalSection
+EndGlobal
