@@ -13,7 +13,7 @@ namespace task4
             int n;
             n = Convert.ToInt32(Console.ReadLine());
             int[] a = new int[n];
-            for (int i = 0; i <=n; i++)
+            for (int i = 1; i <=n; i++)
             {
                 for (int j = 1; j <= i; j++)
                     Console.Write("[*]");
