@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,12 +11,12 @@ namespace task1
         static void Main(string[] args)
         {
             int n; 
-            n = Convert.ToInt32(Console.ReadLine());
+            n = int.Parse(Console.ReadLine());
             int[] a = new int[n];
 
             for(int i=0; i<n; i++)
             {
-                a[i] = Convert.ToInt32(Console.ReadLine());
+                a[i] = int.Parse(Console.ReadLine());
             }
             int cnt = 0;
             bool flag = false;        //falg=можно представить что сейчас каждый член массива держит свой флаг(false)
@@ -29,7 +29,7 @@ namespace task1
                 else
                 for(int j=2; j< a[i]; j++)
                        if (a[i] % j == 0) flag = true;     //если член массива не prime то вот тут он станет true
-                    if (!flag) cnt++;                    //считаем сколько у нас prime-ов
+                    if (flag==false) cnt++;                    //считаем сколько у нас prime-ов
             }
 
             Console.WriteLine(cnt);
@@ -41,9 +41,9 @@ namespace task1
                 else
                  for(int j=2; j<a[i]; j++)
                          if (a[i] % j == 0) flag = true;
-                     if (!flag) Console.Write(a[i] + " ");     //выводим все prime цифры
+                     if (flag==false) Console.Write(a[i] + " ");     //выводим все prime цифры
              }
-            Console.ReadKey();
+            
         }  
     }
 }
