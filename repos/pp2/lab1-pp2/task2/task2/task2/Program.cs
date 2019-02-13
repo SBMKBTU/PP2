@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -13,9 +13,15 @@ namespace task2
         public int year_of_study;
         public void PrintInfo()
         {
-            Console.Write(name + " " + id + " " + (year_of_study+1));
+            Console.Write(name + " " + id + " " + (year_of_study)+ " ");
+            Console.WriteLine();
+            
         }
-        
+        public void IncrementYearOfStudy()
+        {
+            year_of_study++;
+            PrintInfo();
+        }
     }
 
     class Program
@@ -27,7 +33,7 @@ namespace task2
             s.id = Convert.ToString(Console.ReadLine());
             s.year_of_study = Convert.ToInt32(Console.ReadLine());
             s.PrintInfo();
-            
+            s.IncrementYearOfStudy();
         }
     }
 }
