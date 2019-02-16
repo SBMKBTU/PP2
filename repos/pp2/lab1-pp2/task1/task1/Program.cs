@@ -27,7 +27,7 @@ namespace task1
                 flag = false;
                 if (a[i] <= 1) continue;    //если член массива меньше или равен еднице то их не расматриваем
                 else
-                for(int j=2; j< a[i]; j++)
+                for(int j=2; j< Math.sqrt(a[i]); j++)
                        if (a[i] % j == 0) flag = true;     //если член массива не prime то вот тут он станет true
                     if (flag==false) cnt++;                    //считаем сколько у нас prime-ов
             }
@@ -39,7 +39,7 @@ namespace task1
                 flag= false;
                 if (a[i] <= 1) continue;
                 else
-                 for(int j=2; j<a[i]; j++)
+                 for(int j=2; j<Math.sqrt(a[i]); j++)
                          if (a[i] % j == 0) flag = true;
                      if (flag==false) Console.Write(a[i] + " ");     //выводим все prime цифры
              }
