@@ -16,7 +16,7 @@ namespace Task2
 
             bool flag = true;     //пока что flag true 
 
-            for (int i = 2; i < x; ++i)
+            for (int i = 2; i < Math.sqrt(x); ++i)
             {
                 if (x % i == 0)     //если делителей несколько то flag false
                 {
