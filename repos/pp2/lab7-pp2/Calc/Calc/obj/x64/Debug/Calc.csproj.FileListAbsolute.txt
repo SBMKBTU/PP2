@@ -1,0 +1,10 @@
+C:\Users\Багдан\source\repos\pp2\lab7-pp2\Calc\Calc\bin\x64\Debug\Calc.exe.config
+C:\Users\Багдан\source\repos\pp2\lab7-pp2\Calc\Calc\bin\x64\Debug\Calc.exe
+C:\Users\Багдан\source\repos\pp2\lab7-pp2\Calc\Calc\bin\x64\Debug\Calc.pdb
+C:\Users\Багдан\source\repos\pp2\lab7-pp2\Calc\Calc\obj\x64\Debug\Calc.csprojAssemblyReference.cache
+C:\Users\Багдан\source\repos\pp2\lab7-pp2\Calc\Calc\obj\x64\Debug\Calc.Form1.resources
+C:\Users\Багдан\source\repos\pp2\lab7-pp2\Calc\Calc\obj\x64\Debug\Calc.Properties.Resources.resources
+C:\Users\Багдан\source\repos\pp2\lab7-pp2\Calc\Calc\obj\x64\Debug\Calc.csproj.GenerateResource.cache
+C:\Users\Багдан\source\repos\pp2\lab7-pp2\Calc\Calc\obj\x64\Debug\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Багдан\source\repos\pp2\lab7-pp2\Calc\Calc\obj\x64\Debug\Calc.exe
+C:\Users\Багдан\source\repos\pp2\lab7-pp2\Calc\Calc\obj\x64\Debug\Calc.pdb
