@@ -20,6 +20,7 @@ namespace Example2
         public void PrintInfo()
         {
             Console.WriteLine(string.Format("{0}+ {1}*i", onenum, twonum));
+            //Console.Write(onenum + "+" + twonum +"*i");
         }
     }
 
