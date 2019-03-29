@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <name>Samat</name>
+    <massage>Hello!</massage>
+  </Person>
+  <Person>
+    <name>Bagdan</name>
+    <massage>Hello! How are you?</massage>
+  </Person>
+  <Person>
+    <name>Mirbulatuly</name>
+    <massage>NORMAL'NO!)))))</massage>
+  </Person>
+</ArrayOfPerson>

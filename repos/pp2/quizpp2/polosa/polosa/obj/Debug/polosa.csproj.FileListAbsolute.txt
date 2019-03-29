@@ -1,0 +1,7 @@
+C:\Users\Багдан\source\repos\pp2\quizpp2\polosa\polosa\bin\Debug\polosa.exe.config
+C:\Users\Багдан\source\repos\pp2\quizpp2\polosa\polosa\bin\Debug\polosa.exe
+C:\Users\Багдан\source\repos\pp2\quizpp2\polosa\polosa\bin\Debug\polosa.pdb
+C:\Users\Багдан\source\repos\pp2\quizpp2\polosa\polosa\obj\Debug\polosa.csprojAssemblyReference.cache
+C:\Users\Багдан\source\repos\pp2\quizpp2\polosa\polosa\obj\Debug\polosa.csproj.CoreCompileInputs.cache
+C:\Users\Багдан\source\repos\pp2\quizpp2\polosa\polosa\obj\Debug\polosa.exe
+C:\Users\Багдан\source\repos\pp2\quizpp2\polosa\polosa\obj\Debug\polosa.pdb
