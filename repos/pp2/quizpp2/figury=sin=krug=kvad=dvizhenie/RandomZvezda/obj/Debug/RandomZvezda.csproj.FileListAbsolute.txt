@@ -1,0 +1,7 @@
+C:\Users\Багдан\source\repos\pp2\quizpp2\RandomZvezda\RandomZvezda\bin\Debug\RandomZvezda.exe.config
+C:\Users\Багдан\source\repos\pp2\quizpp2\RandomZvezda\RandomZvezda\bin\Debug\RandomZvezda.exe
+C:\Users\Багдан\source\repos\pp2\quizpp2\RandomZvezda\RandomZvezda\bin\Debug\RandomZvezda.pdb
+C:\Users\Багдан\source\repos\pp2\quizpp2\RandomZvezda\RandomZvezda\obj\Debug\RandomZvezda.csprojAssemblyReference.cache
+C:\Users\Багдан\source\repos\pp2\quizpp2\RandomZvezda\RandomZvezda\obj\Debug\RandomZvezda.csproj.CoreCompileInputs.cache
+C:\Users\Багдан\source\repos\pp2\quizpp2\RandomZvezda\RandomZvezda\obj\Debug\RandomZvezda.exe
+C:\Users\Багдан\source\repos\pp2\quizpp2\RandomZvezda\RandomZvezda\obj\Debug\RandomZvezda.pdb
