@@ -1,0 +1,7 @@
+C:\Users\Багдан\source\repos\pp2\quizpp2\DataTime22\DataTime22\obj\Debug\DataTime22.csprojAssemblyReference.cache
+C:\Users\Багдан\source\repos\pp2\quizpp2\DataTime22\DataTime22\obj\Debug\DataTime22.csproj.CoreCompileInputs.cache
+C:\Users\Багдан\source\repos\pp2\quizpp2\DataTime22\DataTime22\bin\Debug\DataTime22.exe.config
+C:\Users\Багдан\source\repos\pp2\quizpp2\DataTime22\DataTime22\bin\Debug\DataTime22.exe
+C:\Users\Багдан\source\repos\pp2\quizpp2\DataTime22\DataTime22\bin\Debug\DataTime22.pdb
+C:\Users\Багдан\source\repos\pp2\quizpp2\DataTime22\DataTime22\obj\Debug\DataTime22.exe
+C:\Users\Багдан\source\repos\pp2\quizpp2\DataTime22\DataTime22\obj\Debug\DataTime22.pdb

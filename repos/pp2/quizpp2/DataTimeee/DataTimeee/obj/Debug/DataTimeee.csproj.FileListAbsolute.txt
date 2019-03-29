@@ -1,0 +1,7 @@
+C:\Users\Багдан\source\repos\pp2\quizpp2\DataTimeee\DataTimeee\bin\Debug\DataTimeee.exe.config
+C:\Users\Багдан\source\repos\pp2\quizpp2\DataTimeee\DataTimeee\bin\Debug\DataTimeee.exe
+C:\Users\Багдан\source\repos\pp2\quizpp2\DataTimeee\DataTimeee\bin\Debug\DataTimeee.pdb
+C:\Users\Багдан\source\repos\pp2\quizpp2\DataTimeee\DataTimeee\obj\Debug\DataTimeee.csprojAssemblyReference.cache
+C:\Users\Багдан\source\repos\pp2\quizpp2\DataTimeee\DataTimeee\obj\Debug\DataTimeee.csproj.CoreCompileInputs.cache
+C:\Users\Багдан\source\repos\pp2\quizpp2\DataTimeee\DataTimeee\obj\Debug\DataTimeee.exe
+C:\Users\Багдан\source\repos\pp2\quizpp2\DataTimeee\DataTimeee\obj\Debug\DataTimeee.pdb
