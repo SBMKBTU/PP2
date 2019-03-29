@@ -1,0 +1,7 @@
+C:\Users\Багдан\source\repos\pp2\quizpp2\threads=factarial=summa-vseh\threads=factarial=summa-vseh\bin\Debug\threads=factarial=summa-vseh.exe.config
+C:\Users\Багдан\source\repos\pp2\quizpp2\threads=factarial=summa-vseh\threads=factarial=summa-vseh\bin\Debug\threads=factarial=summa-vseh.exe
+C:\Users\Багдан\source\repos\pp2\quizpp2\threads=factarial=summa-vseh\threads=factarial=summa-vseh\bin\Debug\threads=factarial=summa-vseh.pdb
+C:\Users\Багдан\source\repos\pp2\quizpp2\threads=factarial=summa-vseh\threads=factarial=summa-vseh\obj\Debug\threads=factarial=summa-vseh.csprojAssemblyReference.cache
+C:\Users\Багдан\source\repos\pp2\quizpp2\threads=factarial=summa-vseh\threads=factarial=summa-vseh\obj\Debug\threads=factarial=summa-vseh.csproj.CoreCompileInputs.cache
+C:\Users\Багдан\source\repos\pp2\quizpp2\threads=factarial=summa-vseh\threads=factarial=summa-vseh\obj\Debug\threads=factarial=summa-vseh.exe
+C:\Users\Багдан\source\repos\pp2\quizpp2\threads=factarial=summa-vseh\threads=factarial=summa-vseh\obj\Debug\threads=factarial=summa-vseh.pdb

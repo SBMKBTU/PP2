@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<ArrayOfMarks1 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Marks1>
+    <gpa>2.67</gpa>
+  </Marks1>
+  <Marks1>
+    <gpa>3.33</gpa>
+  </Marks1>
+  <Marks1>
+    <gpa>1.33</gpa>
+  </Marks1>
+  <Marks1>
+    <gpa>2.0</gpa>
+  </Marks1>
+  <Marks1>
+    <gpa>3.33</gpa>
+  </Marks1>
+</ArrayOfMarks1>

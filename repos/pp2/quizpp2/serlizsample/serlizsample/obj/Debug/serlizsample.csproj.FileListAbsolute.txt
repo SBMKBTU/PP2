@@ -1,0 +1,7 @@
+C:\Users\Багдан\source\repos\pp2\quizpp2\serlizsample\serlizsample\bin\Debug\serlizsample.exe.config
+C:\Users\Багдан\source\repos\pp2\quizpp2\serlizsample\serlizsample\bin\Debug\serlizsample.exe
+C:\Users\Багдан\source\repos\pp2\quizpp2\serlizsample\serlizsample\bin\Debug\serlizsample.pdb
+C:\Users\Багдан\source\repos\pp2\quizpp2\serlizsample\serlizsample\obj\Debug\serlizsample.csprojAssemblyReference.cache
+C:\Users\Багдан\source\repos\pp2\quizpp2\serlizsample\serlizsample\obj\Debug\serlizsample.csproj.CoreCompileInputs.cache
+C:\Users\Багдан\source\repos\pp2\quizpp2\serlizsample\serlizsample\obj\Debug\serlizsample.exe
+C:\Users\Багдан\source\repos\pp2\quizpp2\serlizsample\serlizsample\obj\Debug\serlizsample.pdb

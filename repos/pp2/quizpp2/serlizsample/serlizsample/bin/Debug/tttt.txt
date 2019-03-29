@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<ArrayOfMarks xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Marks>
+    <letter>B-</letter>
+    <points>78</points>
+  </Marks>
+  <Marks>
+    <letter>B+</letter>
+    <points>89</points>
+  </Marks>
+  <Marks>
+    <letter>D+</letter>
+    <points>56</points>
+  </Marks>
+  <Marks>
+    <letter>C</letter>
+    <points>67</points>
+  </Marks>
+  <Marks>
+    <letter>B+</letter>
+    <points>89</points>
+  </Marks>
+</ArrayOfMarks>

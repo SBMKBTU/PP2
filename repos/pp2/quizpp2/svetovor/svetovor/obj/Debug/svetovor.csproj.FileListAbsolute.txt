@@ -1,0 +1,6 @@
+C:\Users\Багдан\source\repos\pp2\quizpp2\svetovor\svetovor\bin\Debug\svetovor.exe.config
+C:\Users\Багдан\source\repos\pp2\quizpp2\svetovor\svetovor\bin\Debug\svetovor.exe
+C:\Users\Багдан\source\repos\pp2\quizpp2\svetovor\svetovor\bin\Debug\svetovor.pdb
+C:\Users\Багдан\source\repos\pp2\quizpp2\svetovor\svetovor\obj\Debug\svetovor.csproj.CoreCompileInputs.cache
+C:\Users\Багдан\source\repos\pp2\quizpp2\svetovor\svetovor\obj\Debug\svetovor.exe
+C:\Users\Багдан\source\repos\pp2\quizpp2\svetovor\svetovor\obj\Debug\svetovor.pdb
