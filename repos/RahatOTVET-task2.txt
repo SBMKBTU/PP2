@@ -1,0 +1,74 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
+using System.Threading;
+using System.Xml.Serialization;
+using System.Runtime.Serialization;
+
+namespace Task1
+{
+    public class Program
+    {
+        
+       static void Main(string[] args)
+        {
+            Console.CursorVisible = false;
+            Console.SetWindowSize(40, 30);
+            Console.SetBufferSize(40, 30);
+            for (int i = 0; i < 10; ++i)
+            {
+                Console.Write('.');
+                Thread.Sleep(500);
+            }
+
+            for (int i = 0; i < 10; ++i)
+            {
+                Console.SetCursorPosition(10, i);
+                Console.Write('.');
+                Thread.Sleep(500);
+            }
+
+            for (int i = 10; i >= 0; --i)
+            {
+                Console.SetCursorPosition(i, 10);
+                Console.Write('.');
+                Thread.Sleep(500);
+            }
+
+            for (int i = 10; i >= 0; --i)
+            {
+                Console.SetCursorPosition(0, i);
+                Console.Write('.');
+                Thread.Sleep(500);
+            }
+            
+            int x = 5;
+            int y = 5;
+            ConsoleKeyInfo k;                    //код для реализации движение ввиде змейки
+            do
+            {
+                Console.SetCursorPosition(x, y);
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.Write("*");
+                Console.ForegroundColor = ConsoleColor.White;
+                k = Console.ReadKey(true);
+                if (k.Key == ConsoleKey.UpArrow)
+                    y--;
+                else if (k.Key == ConsoleKey.DownArrow)
+                    y++;
+                else if (k.Key == ConsoleKey.LeftArrow)
+                    x--;
+                else if (k.Key == ConsoleKey.RightArrow)
+                    x++;
+                Console.Clear();
+            } while (k.Key != ConsoleKey.Escape);
+        }
+
+
+
+        }
+    }
+    
