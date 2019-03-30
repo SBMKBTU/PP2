@@ -1,0 +1,7 @@
+C:\Users\Багдан\source\repos\pp2\quiz\TASK1\Task1\Task1\bin\Debug\Task1.exe.config
+C:\Users\Багдан\source\repos\pp2\quiz\TASK1\Task1\Task1\bin\Debug\Task1.exe
+C:\Users\Багдан\source\repos\pp2\quiz\TASK1\Task1\Task1\bin\Debug\Task1.pdb
+C:\Users\Багдан\source\repos\pp2\quiz\TASK1\Task1\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\Багдан\source\repos\pp2\quiz\TASK1\Task1\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Багдан\source\repos\pp2\quiz\TASK1\Task1\Task1\obj\Debug\Task1.exe
+C:\Users\Багдан\source\repos\pp2\quiz\TASK1\Task1\Task1\obj\Debug\Task1.pdb

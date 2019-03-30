@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ArrayOfAuthor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Author>
+    <name>fytwd</name>
+    <surname>faefaef</surname>
+    <age>19</age>
+  </Author>
+  <Author>
+    <age>0</age>
+  </Author>
+</ArrayOfAuthor>

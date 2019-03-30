@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<ArrayOfPost xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Post>
+    <text>jgfgjfjgfjgf</text>
+  </Post>
+  <Post>
+    <text>bdsjahbdfa</text>
+  </Post>
+</ArrayOfPost>
