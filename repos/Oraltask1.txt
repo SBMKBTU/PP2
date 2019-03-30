@@ -1,0 +1,106 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
+using System.Threading;
+using System.Xml.Serialization;
+using System.Runtime.Serialization;
+
+namespace Task1
+{
+    public class Program
+    { 
+    public class Student
+        {
+            public string name;
+            public string surname;
+            public string predmet;
+            public int god_obu4;
+            public string id;
+        }
+        public class Teacher
+        {
+            public string name;
+            public string surname;
+            public int telefon;
+            public string email;
+            public override string ToString()
+            {
+                return name + " " + surname + " " + telefon + " " + email;
+            }
+        }
+        public class Group
+        {
+            public string klass;
+        }
+
+
+        static void Main(string[] args)
+        {
+            Serializer();
+            Deserialize()
+        }
+        public static void Deserialize()
+        {
+            XmlSerializer xs = new XmlSerializer(typeof(List<Student>));
+            XmlSerializer xs1 = new XmlSerializer(typeof(List<Teacher>));
+            int i = 0;
+            int j = 0;
+            using (FileStream fs = new FileStream("tttt.txt", FileMode.Open))   //открываем файл для чтения
+            {
+
+                List<Student> res = (List<Student>)xs.Deserialize(fs); //Десеривализуем то чо в файле тхт в лист рес
+
+                foreach (var el in res)
+                {
+                    Console.WriteLine("Student " + (i + 1) + ":" + " {0}", el.ToString());
+                    i = i + 1;                            //показываем в консоле преоброзовывая ее в стринг методом toString()
+                }
+            }
+            using (FileStream fs1 = new FileStream("tttt1.txt", FileMode.Open))
+            {
+                List<Teacher> res1 = (List<Teacher>)xs1.Deserialize(fs1);
+                foreach (var el1 in res1)
+                {
+                    Console.WriteLine("Student " + (j + 1) + ":" + "{0}", el1.ToString());
+                    j = j + 1;
+                }
+            }
+
+        }
+        public static void Serializer()
+        {
+
+            List<Student> Point1 = new List<Student>();
+            List<Teacher> Point2 = new List<Teacher>();
+            Student Student = new Student();
+            Teacher Teacher = new Teacher();
+            Student.name = "Oralbek";
+            Student.surname = "Bayazov";
+            Student.id = "18BD523577";
+            Student.god_obu4 = 1;
+            Teacher.name = "fghasds";
+            Teacher.surname = "gvagfd";
+            Teacher.telefon = 35467890;
+            Teacher.email = "weredtrfytgu32";
+            Point1.Add(Student);
+            Point2.Add(Teacher);
+            XmlSerializer xs = new XmlSerializer(typeof(List<Student>));  //Объявляем что серилизуем лист Марк
+            XmlSerializer xs1 = new XmlSerializer(typeof(List<Teacher>));
+            FileStream fs = new FileStream("dgd.txt", FileMode.Create, FileAccess.Write);    // Создаем тхт файл и пишем в нее то что будем среиализовать  
+            FileStream fs1 = new FileStream("hgfjh.txt", FileMode.Create, FileAccess.Write);
+            xs.Serialize(fs, Point1);  //в файл сериализуем то что в Поинте
+            xs1.Serialize(fs1, Point2);
+
+            fs.Close();
+
+
+
+        }
+
+
+
+        }
+    }
