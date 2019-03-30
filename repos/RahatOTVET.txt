@@ -1,0 +1,113 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.IO;
+using System.Threading;
+using System.Xml.Serialization;
+using System.Runtime.Serialization;
+
+namespace Task1
+{
+    public class Program
+    {
+        
+        public class Course
+         {
+
+             
+             public string title;
+             public override string ToString()
+             {
+                 return title;
+             }
+         }
+         public class Teacher
+         {
+             public string name;
+                public string surname;
+             public int salary;
+             public override string ToString()
+             {
+                return name + " " + surname + " " + salary;
+             }
+         }
+         public static void Deserialize()
+         {
+             XmlSerializer xs = new XmlSerializer(typeof(List<Course>));
+             XmlSerializer xs1 = new XmlSerializer(typeof(List<Teacher>));
+             int i = 0;
+             int j = 0;
+             using (FileStream fs = new FileStream("tttt.txt", FileMode.Open))  
+             {
+
+                 List<Course> res = (List<Course>)xs.Deserialize(fs); 
+
+                 foreach (var el in res)
+                 {
+                     Console.WriteLine("Student " + (i + 1) + ":" + " {0}", el.ToString());
+                     i = i + 1;                            
+                 }
+             }
+             using (FileStream fs1 = new FileStream("tttt1.txt", FileMode.Open))
+             {
+                 List<Teacher> res1 = (List<Teacher>)xs1.Deserialize(fs1);
+                 foreach (var el1 in res1)
+                 {
+                     Console.WriteLine("Student " + (j + 1) + ":" + "{0}", el1.ToString());
+                     j = j + 1;
+                 }
+             }
+
+         }
+             static void Main(string[] args)
+         {
+            Serializer();
+           Deserialize();
+         }
+             public static void Serializer()
+             {
+             List<Course> Point = new List<Course>();
+            Course text = new Course();
+            Course text2 = new Course();
+            List<Teacher> Point2 = new List<Teacher>();
+            text.title = "harry Potter";
+             text2.title = "SHREK";
+            Teacher Teacher = new Teacher();
+            Teacher.name = "Rahat";
+            Teacher.surname = "Medeubay";
+            Teacher.salary = 200000;
+            Teacher Teacher2 = new Teacher();
+            Teacher.name = "fytwd";
+            Teacher.surname = "faefaef";
+            Teacher.salary = 190000;
+
+             Point.Add(text);
+             Point.Add(text2);
+             Point2.Add(Teacher);
+             Point2.Add(Teacher2);
+
+
+
+
+
+
+
+
+
+
+
+
+             XmlSerializer xs = new XmlSerializer(typeof(List<Course>));  
+                 XmlSerializer xs1 = new XmlSerializer(typeof(List<Teacher>));
+                 FileStream fs = new FileStream("dgd.txt", FileMode.Create, FileAccess.Write);    
+                 FileStream fs1 = new FileStream("hgfjh.txt", FileMode.Create, FileAccess.Write);
+                 xs.Serialize(fs, Point);  
+                 xs1.Serialize(fs1, Point2);
+
+                 fs.Close();  
+     }
+   }
+}
+}
