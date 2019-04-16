@@ -1,0 +1,10 @@
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\Animaciya , graphics dvizhenie\Animaciya , graphics dvizhenie\Animaciya , graphics dvizhenie\bin\Debug\Animaciya , graphics dvizhenie.exe.config
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\Animaciya , graphics dvizhenie\Animaciya , graphics dvizhenie\Animaciya , graphics dvizhenie\bin\Debug\Animaciya , graphics dvizhenie.exe
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\Animaciya , graphics dvizhenie\Animaciya , graphics dvizhenie\Animaciya , graphics dvizhenie\bin\Debug\Animaciya , graphics dvizhenie.pdb
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\Animaciya , graphics dvizhenie\Animaciya , graphics dvizhenie\Animaciya , graphics dvizhenie\obj\Debug\Animaciya , graphics dvizhenie.csprojAssemblyReference.cache
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\Animaciya , graphics dvizhenie\Animaciya , graphics dvizhenie\Animaciya , graphics dvizhenie\obj\Debug\Animaciya___graphics_dvizhenie.Form1.resources
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\Animaciya , graphics dvizhenie\Animaciya , graphics dvizhenie\Animaciya , graphics dvizhenie\obj\Debug\Animaciya___graphics_dvizhenie.Properties.Resources.resources
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\Animaciya , graphics dvizhenie\Animaciya , graphics dvizhenie\Animaciya , graphics dvizhenie\obj\Debug\Animaciya , graphics dvizhenie.csproj.GenerateResource.cache
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\Animaciya , graphics dvizhenie\Animaciya , graphics dvizhenie\Animaciya , graphics dvizhenie\obj\Debug\Animaciya , graphics dvizhenie.csproj.CoreCompileInputs.cache
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\Animaciya , graphics dvizhenie\Animaciya , graphics dvizhenie\Animaciya , graphics dvizhenie\obj\Debug\Animaciya , graphics dvizhenie.exe
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\Animaciya , graphics dvizhenie\Animaciya , graphics dvizhenie\Animaciya , graphics dvizhenie\obj\Debug\Animaciya , graphics dvizhenie.pdb
