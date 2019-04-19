@@ -1,0 +1,9 @@
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\2=DvizhiePoOkruzhnosti\2=DvizhiePoOkruzhnosti\bin\Debug\2=DvizhiePoOkruzhnosti.exe.config
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\2=DvizhiePoOkruzhnosti\2=DvizhiePoOkruzhnosti\bin\Debug\2=DvizhiePoOkruzhnosti.exe
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\2=DvizhiePoOkruzhnosti\2=DvizhiePoOkruzhnosti\bin\Debug\2=DvizhiePoOkruzhnosti.pdb
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\2=DvizhiePoOkruzhnosti\2=DvizhiePoOkruzhnosti\obj\Debug\_2_DvizhiePoOkruzhnosti.Form1.resources
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\2=DvizhiePoOkruzhnosti\2=DvizhiePoOkruzhnosti\obj\Debug\_2_DvizhiePoOkruzhnosti.Properties.Resources.resources
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\2=DvizhiePoOkruzhnosti\2=DvizhiePoOkruzhnosti\obj\Debug\2=DvizhiePoOkruzhnosti.csproj.GenerateResource.cache
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\2=DvizhiePoOkruzhnosti\2=DvizhiePoOkruzhnosti\obj\Debug\2=DvizhiePoOkruzhnosti.csproj.CoreCompileInputs.cache
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\2=DvizhiePoOkruzhnosti\2=DvizhiePoOkruzhnosti\obj\Debug\2=DvizhiePoOkruzhnosti.exe
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\2=DvizhiePoOkruzhnosti\2=DvizhiePoOkruzhnosti\obj\Debug\2=DvizhiePoOkruzhnosti.pdb
