@@ -1,0 +1,9 @@
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\DvizheniePoPorabole\DvizheniePoPorabole\bin\Debug\DvizheniePoPorabole.exe.config
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\DvizheniePoPorabole\DvizheniePoPorabole\bin\Debug\DvizheniePoPorabole.exe
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\DvizheniePoPorabole\DvizheniePoPorabole\bin\Debug\DvizheniePoPorabole.pdb
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\DvizheniePoPorabole\DvizheniePoPorabole\obj\Debug\DvizheniePoPorabole.csprojAssemblyReference.cache
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\DvizheniePoPorabole\DvizheniePoPorabole\obj\Debug\DvizheniePoPorabole.Properties.Resources.resources
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\DvizheniePoPorabole\DvizheniePoPorabole\obj\Debug\DvizheniePoPorabole.csproj.GenerateResource.cache
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\DvizheniePoPorabole\DvizheniePoPorabole\obj\Debug\DvizheniePoPorabole.csproj.CoreCompileInputs.cache
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\DvizheniePoPorabole\DvizheniePoPorabole\obj\Debug\DvizheniePoPorabole.exe
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\DvizheniePoPorabole\DvizheniePoPorabole\obj\Debug\DvizheniePoPorabole.pdb
