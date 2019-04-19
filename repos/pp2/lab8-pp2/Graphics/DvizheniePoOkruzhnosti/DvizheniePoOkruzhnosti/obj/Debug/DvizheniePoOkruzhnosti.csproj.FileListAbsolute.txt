@@ -1,0 +1,10 @@
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\DvizheniePoOkruzhnosti\DvizheniePoOkruzhnosti\bin\Debug\DvizheniePoOkruzhnosti.exe.config
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\DvizheniePoOkruzhnosti\DvizheniePoOkruzhnosti\bin\Debug\DvizheniePoOkruzhnosti.exe
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\DvizheniePoOkruzhnosti\DvizheniePoOkruzhnosti\bin\Debug\DvizheniePoOkruzhnosti.pdb
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\DvizheniePoOkruzhnosti\DvizheniePoOkruzhnosti\obj\Debug\DvizheniePoOkruzhnosti.csprojAssemblyReference.cache
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\DvizheniePoOkruzhnosti\DvizheniePoOkruzhnosti\obj\Debug\DvizheniePoOkruzhnosti.Form1.resources
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\DvizheniePoOkruzhnosti\DvizheniePoOkruzhnosti\obj\Debug\DvizheniePoOkruzhnosti.Properties.Resources.resources
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\DvizheniePoOkruzhnosti\DvizheniePoOkruzhnosti\obj\Debug\DvizheniePoOkruzhnosti.csproj.GenerateResource.cache
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\DvizheniePoOkruzhnosti\DvizheniePoOkruzhnosti\obj\Debug\DvizheniePoOkruzhnosti.csproj.CoreCompileInputs.cache
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\DvizheniePoOkruzhnosti\DvizheniePoOkruzhnosti\obj\Debug\DvizheniePoOkruzhnosti.exe
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\DvizheniePoOkruzhnosti\DvizheniePoOkruzhnosti\obj\Debug\DvizheniePoOkruzhnosti.pdb

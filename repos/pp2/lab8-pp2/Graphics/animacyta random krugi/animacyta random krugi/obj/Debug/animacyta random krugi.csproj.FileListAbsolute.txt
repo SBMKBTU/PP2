@@ -1,0 +1,10 @@
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\animacyta random krugi\animacyta random krugi\bin\Debug\animacyta random krugi.exe.config
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\animacyta random krugi\animacyta random krugi\bin\Debug\animacyta random krugi.exe
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\animacyta random krugi\animacyta random krugi\bin\Debug\animacyta random krugi.pdb
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\animacyta random krugi\animacyta random krugi\obj\Debug\animacyta random krugi.csprojAssemblyReference.cache
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\animacyta random krugi\animacyta random krugi\obj\Debug\animacyta_random_krugi.Form1.resources
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\animacyta random krugi\animacyta random krugi\obj\Debug\animacyta_random_krugi.Properties.Resources.resources
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\animacyta random krugi\animacyta random krugi\obj\Debug\animacyta random krugi.csproj.GenerateResource.cache
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\animacyta random krugi\animacyta random krugi\obj\Debug\animacyta random krugi.csproj.CoreCompileInputs.cache
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\animacyta random krugi\animacyta random krugi\obj\Debug\animacyta random krugi.exe
+C:\Users\Багдан\source\repos\pp2\lab8-pp2\animacyta random krugi\animacyta random krugi\obj\Debug\animacyta random krugi.pdb
